@@ -1,0 +1,11 @@
+{
+  "ver":1.0,
+  "se":{
+    "26":{"url":"https://hasaka.github.io/tenhou_zunda_voice/zundamon/zunda_pon.wav"},
+    "28":{"url":"https://hasaka.github.io/tenhou_zunda_voice/zundamon/zunda_kan.wav"},
+    "30":{"url":"https://hasaka.github.io/tenhou_zunda_voice/zundamon/zunda_chi.wav"},
+    "32":{"url":"https://hasaka.github.io/tenhou_zunda_voice/zundamon/zunda_reach.wav"},
+    "34":{"url":"https://hasaka.github.io/tenhou_zunda_voice/zundamon/zunda_ron.wav"},
+    "36":{"url":"https://hasaka.github.io/tenhou_zunda_voice/zundamon/zunda_tsumo.wav"}
+  }
+}
