@@ -1,17 +1,17 @@
 {
-  "ver":1.0,
-  "se":{
-    "25":{"url":"https://hasaka.github.io/tenhou_zunda_voice/zundamon/zunda_pon.wav"},
-    "26":{"url":"https://hasaka.github.io/tenhou_zunda_voice/zundamon/zunda_pon.wav"},
-    "27":{"url":"https://hasaka.github.io/tenhou_zunda_voice/zundamon/zunda_kan.wav"},
-    "28":{"url":"https://hasaka.github.io/tenhou_zunda_voice/zundamon/zunda_kan.wav"},
-    "29":{"url":"https://hasaka.github.io/tenhou_zunda_voice/zundamon/zunda_chi.wav"},
-    "30":{"url":"https://hasaka.github.io/tenhou_zunda_voice/zundamon/zunda_chi.wav"},
-    "31":{"url":"https://hasaka.github.io/tenhou_zunda_voice/zundamon/zunda_reach.wav"},    
-    "32":{"url":"https://hasaka.github.io/tenhou_zunda_voice/zundamon/zunda_reach.wav"},
-    "33":{"url":"https://hasaka.github.io/tenhou_zunda_voice/zundamon/zunda_ron.wav"},    
-    "34":{"url":"https://hasaka.github.io/tenhou_zunda_voice/zundamon/zunda_ron.wav"},
-    "35":{"url":"https://hasaka.github.io/tenhou_zunda_voice/zundamon/zunda_tsumo.wav"},
-    "36":{"url":"https://hasaka.github.io/tenhou_zunda_voice/zundamon/zunda_tsumo.wav"}
+  "ver": 1.0,
+  "se": {
+    "25": {"url": "https://hasaka.github.io/tenhou_zunda_voice/zundamon/zunda_pon.wav"},
+    "26": {"url": "https://hasaka.github.io/tenhou_zunda_voice/zundamon/zunda_pon.wav"},
+    "27": {"url": "https://hasaka.github.io/tenhou_zunda_voice/zundamon/zunda_kan.wav"},
+    "28": {"url": "https://hasaka.github.io/tenhou_zunda_voice/zundamon/zunda_kan.wav"},
+    "29": {"url": "https://hasaka.github.io/tenhou_zunda_voice/zundamon/zunda_chi.wav"},
+    "30": {"url": "https://hasaka.github.io/tenhou_zunda_voice/zundamon/zunda_chi.wav"},
+    "31": {"url": "https://hasaka.github.io/tenhou_zunda_voice/zundamon/zunda_reach.wav"},    
+    "32": {"url": "https://hasaka.github.io/tenhou_zunda_voice/zundamon/zunda_reach.wav"},
+    "33": {"url": "https://hasaka.github.io/tenhou_zunda_voice/zundamon/zunda_ron.wav"},    
+    "34": {"url": "https://hasaka.github.io/tenhou_zunda_voice/zundamon/zunda_ron.wav"},
+    "35": {"url": "https://hasaka.github.io/tenhou_zunda_voice/zundamon/zunda_tsumo.wav"},
+    "36": {"url": "https://hasaka.github.io/tenhou_zunda_voice/zundamon/zunda_tsumo.wav"}
   }
 }
